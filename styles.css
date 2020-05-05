@@ -61,6 +61,10 @@ body {
   margin-left: .75rem;
 }
 
+.rounded-circle:hover{
+  width: 200px;
+  height: 200px;
+}
 
 /* Featurettes
 ------------------------- */
